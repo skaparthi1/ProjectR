@@ -40,7 +40,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>com.example.main</mainClass>
+                            <mainClass>RestaurantApp</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
